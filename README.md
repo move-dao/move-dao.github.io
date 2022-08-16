@@ -120,8 +120,8 @@ Move团队是一个去中心化的愿景自驱动的教育、技术社区，目�
 **Kusou1**
 
 曾就职于某教育公司及某美业公司，曾为北美医美项目从0到1制作用于运营及推广的官网和商城，拥有丰富的前端经验,熟悉2D、3D的可视化
-https://theclinica.ca/enteciaskincare.com
-https://github.com/Kusou1/WebGL-Learn
+https://theclinica.ca/enteciaskincare.com, https://github.com/Kusou1/WebGL-Learn
+
 **stephen**
 
 四年国内大厂工作经验，区块链小白，目前专注于学习Move和Aptos
