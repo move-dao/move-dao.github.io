@@ -1,6 +1,5 @@
 # move-dao.github.io
 
-
 ## 1.项目名称
 
 MoveDAO
@@ -27,40 +26,7 @@ MoveDAO通过汇聚和培育Move语言人才，让更多的资深程序员，软
 
 同时，我们将以项目提案的形式，组织项目成员进行项目孵化、Web3项目开发推广，Move语言插件开发等业务，为生态的项目方提供一揽子解决方案。
 
-![alt text](https://github.com/move-dao/move-dao.github.io/blob/main/team.png)
-
-
-### 6.发展现状和未来计划
-
-- **现在项目的进展如何？**
-
-## 1.项目名称
-
-MoveDAO
-
-## 2.项目概述
-
-MoveDAO 是Move生态第一个由中文社区率先发起的专注于关于Move语言的人才培育，语言发展和项目孵化的去中心化组织。
-
-### 3.我们为什么要做这个项目，解决哪些痛点？
-
-Aptos(也包括其他Move公链)作为一个建立在新语言（Move）上的公链，Move语言开发人才成为了制约整个公链生态最大的短板。据公开报道，目前Move工程师的时薪甚至飙升到了1200$/Hr，这虽然是Move工程师的福音，但也反映了相关人才缺乏的事实。
-
-基础语言人才的匮乏，对于整个Aptos的生态的长期发展并不友好。
-
-而缺乏核心语言人才，导致公链生态发展缓慢，已经在IC（International Computer ）上得到验证。
-
-### 4.我们的目标
-
-我们的目标是成为Move语言生态中最大的人才、项目孵化组织。
-
-### 5.我们为生态提供的价值（Value Proposition to the Aptos Ecosystem）
-
-MoveDAO通过汇聚和培育Move语言人才，让更多的资深程序员，软件工程师知道Move，学习Move，并给Aptos等公链生态输送价值，解决市场的人才供需不平衡问题。
-
-同时，我们将以项目提案的形式，组织项目成员进行项目孵化、Web3项目开发推广，Move语言插件开发等业务，为生态的项目方提供一揽子解决方案。
-
-![alt text](https://github.com/move-dao/move-dao.github.io/blob/main/road_map.png)
+![alt text](https://github.com/move-dao/move-dao.github.io/blob/main/ecosystem.png)
 
 
 ### 6.发展现状和未来计划
@@ -150,7 +116,7 @@ Finx钱包中国区mod,资深区块链从业者
 
 我们的团队核心是各种任务小组，而管理组是负责管理和协调项目小组。在组织中，大家是平等，只有职能不同的差别。制度是整个团队有序运行、发展的基础。
 
-![alt text](https://github.com/move-dao/move-dao.github.io/blob/main/ecosystem.png)
+![alt text](https://github.com/move-dao/move-dao.github.io/blob/main/team.png)
 
 
 **我们的组织（DAO）特色有哪些？**
@@ -172,7 +138,7 @@ Finx钱包中国区mod,资深区块链从业者
 
 目前我们制定了阶段性发展目标：
 
-![movedao3c|690x388](upload://lcnAW2yPj5xIcq9R3OgQyzycNPQ.png)
+![alt text](https://github.com/move-dao/move-dao.github.io/blob/main/road_map.png)
 
 
 ### 10.风险和挑战
