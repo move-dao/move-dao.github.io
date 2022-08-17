@@ -27,7 +27,7 @@ MoveDAO通过汇聚和培育Move语言人才，让更多的资深程序员，软
 
 同时，我们将以项目提案的形式，组织项目成员进行项目孵化、Web3项目开发推广，Move语言插件开发等业务，为生态的项目方提供一揽子解决方案。
 
-![movedao1c|690x388](upload://5wOXV08RnlbANlqJWeVp4cUuEZu.png)
+![alt text](https://github.com/move-dao/move-dao.github.io/blob/main/team.png)
 
 
 ### 6.发展现状和未来计划
@@ -60,7 +60,7 @@ MoveDAO通过汇聚和培育Move语言人才，让更多的资深程序员，软
 
 同时，我们将以项目提案的形式，组织项目成员进行项目孵化、Web3项目开发推广，Move语言插件开发等业务，为生态的项目方提供一揽子解决方案。
 
-![movedao1c|690x388](upload://5wOXV08RnlbANlqJWeVp4cUuEZu.png)
+![alt text](https://github.com/move-dao/move-dao.github.io/blob/main/road_map.png)
 
 
 ### 6.发展现状和未来计划
@@ -150,7 +150,7 @@ Finx钱包中国区mod,资深区块链从业者
 
 我们的团队核心是各种任务小组，而管理组是负责管理和协调项目小组。在组织中，大家是平等，只有职能不同的差别。制度是整个团队有序运行、发展的基础。
 
-![movedao2c|690x388](upload://xXX9M8PRJ2PpavrMN2RQTXwTizT.jpeg)
+![alt text](https://github.com/move-dao/move-dao.github.io/blob/main/ecosystem.png)
 
 
 **我们的组织（DAO）特色有哪些？**
